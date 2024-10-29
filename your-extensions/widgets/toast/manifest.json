@@ -1,0 +1,20 @@
+{
+  "name": "toast",
+  "label": "Toast",
+  "type": "widget",
+  "version": "1.15.0",
+  "exbVersion": "1.15.0",
+  "author": "AznanJamil",
+  "description": "This is a simple toast widget that can be used to display messages to the user." ,
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en",
+    "ms"
+  ],
+  "defaultSize": {
+    "width": 800,
+    "height": 500
+  }
+}

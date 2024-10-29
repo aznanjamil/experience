@@ -1,0 +1,9 @@
+{
+  "devEnv": {
+    "prod": {
+      "portalUrl": "https://geospatials.maps.arcgis.com",
+      "clientId": "4aHzvwJ71i8ZHmOh",
+      "isWebTier": false
+    }
+  }
+}
